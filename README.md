@@ -1,13 +1,11 @@
 # Skin-Disease-Analyzer
 
 
-## Skin-Lesion-Analyzer
-
 Live Web App: https://skin-disease-analyzer-tarp.netlify.app/
 
 <br>
 
-<img src="./assets/app_pic.png" width="350"></img>
+<img src="./assets/app_pic.PNG" width="350"></img>
 
 <br>
 
